@@ -12,7 +12,11 @@
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "zombie": "^5.0.7"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KundanKumar0/meadowlark.git"
